@@ -1,2 +1,2 @@
 # Chat-App
-Chat App with Google Gemini
+Chat App with integration of Google Gemini
